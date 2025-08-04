@@ -691,10 +691,11 @@ class CalcMain{
 }
         /*   OUTPUT
 	 Basic Calculator
+       Basic Calculator
 Addition : 50
-Addition : 10
-Addition : 600
-Addition : 1.0
+Subtraction : 10
+Multiplication : 600
+Division : 1.0
         Advanced Calculator
 Power 25.0
 Module 1.0
@@ -703,7 +704,8 @@ Square Root 5.0
 Sin(10) : 0.17364817766693033
 Cos(10) : 0.984807753012208
 Log(10) : 2.302585092994046
-Exp(10) : 22026.465794806718    */
+Exp(10) : 22026.465794806718   */
+
 
 
 
